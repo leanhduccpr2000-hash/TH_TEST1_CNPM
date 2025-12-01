@@ -1,2 +1,4 @@
 # TH_TEST1_CNPM
-mô tả đại dại
+họ tên: lê anh đức 
+mã sinh viên: 24s1020017
+địa chỉ ninh bình
